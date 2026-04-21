@@ -24,20 +24,15 @@ Para a construção deste estudo, foram selecionadas fontes abertas e materiais 
 
 ### 🔗 Fontes utilizadas
 
-- Documentação oficial Shopee – Política de Comissão  
-(https://seller.br.shopee.cn/edu/article/26839/Comissao-para-vendedores-CNPJ-e-CPF-em-2026)
+- [📄 Política de Comissão Shopee](https://seller.br.shopee.cn/edu/article/26839/Comissao-para-vendedores-CNPJ-e-CPF-em-2026)
 
-- Shopee – GMV Max e Cupons Inteligentes  
-(https://ads.shopee.com.br/learn/faq/473/1979)
+- [🚀 GMV Max e Cupons Inteligentes](https://ads.shopee.com.br/learn/faq/473/1979)
 
-- Artigo – ROAS (Nuvemshop)  
-(https://www.nuvemshop.com.br/blog/roas/)
+- [📊 ROAS – Nuvemshop](https://www.nuvemshop.com.br/blog/roas/)
 
-- Artigo – ROAS (Senso Performance)  
-(https://www.sensoperformance.com.br/roas-o-que-e/)
+- [📈 ROAS – Senso Performance](https://www.sensoperformance.com.br/roas-o-que-e/)
 
-- Artigo – Margem de Contribuição e Precificação  
-(https://tributei.net/blog/margem-de-contribuicao-no-ecommerce/)
+- [💰 Margem de Contribuição – Tributi](https://tributei.net/blog/margem-de-contribuicao-no-ecommerce/)
 
 Essas fontes foram utilizadas no NotebookLM como base para geração de insights, resumos e testes de prompts, permitindo a construção de análises mais estruturadas e aplicáveis ao contexto do e-commerce.
 
